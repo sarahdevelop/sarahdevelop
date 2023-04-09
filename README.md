@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarah 
 
-## iOS Developer - fueled by sugar
+## Designer - fueled by sugar and coffee
 <!--- 💼 My GitHub Portfolio --->
 
 
@@ -8,15 +8,14 @@
 
 ---
 ### About
-- 💻 I started my own webdesign business in 2020, but I recently fell in love with iOS Development
-- 🖌️ Currently taking the "iOS Developer" - course at Codecademy
+- 💻 I started my own multimedia agency in 2020
 - 🫶 I love learning and expanding my knowledge
-- 👀 On the search for my first iOS internship
 
 ### Skills
 - 📱 Swift 
 - 🧩 JavaScript
 - 🌐 HTML & CSS
+- 💻 Figma & Adobe Creative Cloud
 
 
 <!--- - 🎨 SwiftUI
